@@ -1,0 +1,1858 @@
+[
+  {
+    "name": "crvUSD+YB (0xec97\u2026d65b)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "crvUSD+YB (0xec97\u2026d65b)",
+      "shortName": "crvUSD+YB (0xec97\u2026)",
+      "gauge": "0xcc57f3a930551eff0efe20c996b7e723e3f5e572",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "505194649815721949536895"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "6938067674737300",
+        "gauge_future_relative_weight": "6939803690030591",
+        "get_gauge_weight": "5416310944785141274608000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.3502804650442304,
+      "gaugeCrvApy": [
+        19.05918451231383,
+        47.64796128078458
+      ],
+      "gaugeFutureCrvApy": [
+        19.063953424544465,
+        47.65988356136116
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-271/swap",
+          "https://classic.curve.finance/factory-twocrypto-271"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-271/deposit",
+          "https://classic.curve.finance/factory-twocrypto-271/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-271/withdraw",
+          "https://classic.curve.finance/factory-twocrypto-271/withdraw"
+        ]
+      },
+      "swap": "0xec977f46467a3021785cff88894886e617abd65b",
+      "swap_token": "0xec977f46467a3021785cff88894886e617abd65b",
+      "swap_data": {
+        "virtual_price": "1016948105943719642"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      19.05918451231383,
+      47.64796128078458
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      19.05918451231383,
+      47.64796128078458
+    ],
+    "max_apy": 47.64796128078458,
+    "usd_total": 2408781.203627089
+  },
+  {
+    "name": "MUSD+crv2pool (0xB557\u2026955f)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "MUSD+crv2pool (0xB557\u2026955f)",
+      "shortName": "MUSD+crv2pool (0xB557\u2026)",
+      "gauge": "0x7d6b0d7e8f5e78c0890f9e512ed70f57fd225cac",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "570848960739498550305908"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "5698715503374176",
+        "gauge_future_relative_weight": "5700559245860889",
+        "get_gauge_weight": "4449117412227025045670400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.9950477251747906,
+      "gaugeCrvApy": [
+        18.800108701499237,
+        47.000271753748095
+      ],
+      "gaugeFutureCrvApy": [
+        18.806191222928366,
+        47.01547805732091
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-518/swap",
+          "https://classic.curve.finance/factory-stable-ng-518"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-518/deposit",
+          "https://classic.curve.finance/factory-stable-ng-518/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-518/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-518/withdraw"
+        ]
+      },
+      "swap": "0xb5571e76693ba60110b5811dd650ffefce1c955f",
+      "swap_token": "0xb5571e76693ba60110b5811dd650ffefce1c955f",
+      "swap_data": {
+        "virtual_price": "1001922789253824486"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      18.800108701499237,
+      47.000271753748095
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      18.800108701499237,
+      47.000271753748095
+    ],
+    "max_apy": 47.000271753748095,
+    "usd_total": 1002327.1929029672
+  },
+  {
+    "name": "frxUSD+msUSD (0x9A9e\u20264d1b)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "frxUSD+msUSD (0x9A9e\u20264d1b)",
+      "shortName": "frxUSD+msUSD (0x9A9e\u2026)",
+      "gauge": "0x6a253c9fe5aaff662e072aa694ce53b917adb278",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "1611008272001824275267736"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "16093546021923469",
+        "gauge_future_relative_weight": "16097816189685976",
+        "get_gauge_weight": "12563868073183384791052800",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.9965517315028226,
+      "gaugeCrvApy": [
+        18.784629680985745,
+        46.96157420246436
+      ],
+      "gaugeFutureCrvApy": [
+        18.789613885211786,
+        46.97403471302947
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-599/swap",
+          "https://classic.curve.finance/factory-stable-ng-599"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-599/deposit",
+          "https://classic.curve.finance/factory-stable-ng-599/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-599/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-599/withdraw"
+        ]
+      },
+      "swap": "0x9a9e2e70919c75d80aaaa1d483c46cdbb8ac4d1b",
+      "swap_token": "0x9a9e2e70919c75d80aaaa1d483c46cdbb8ac4d1b",
+      "swap_data": {
+        "virtual_price": "1000451717012820619"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      18.784629680985745,
+      46.96157420246436
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      18.784629680985745,
+      46.96157420246436
+    ],
+    "max_apy": 46.96157420246436,
+    "usd_total": 2621689.311726738
+  },
+  {
+    "name": "WETH+RSUP (0xEe35\u2026578d)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "WETH+RSUP (0xEe35\u2026578d)",
+      "shortName": "WETH+RSUP (0xEe35\u2026)",
+      "gauge": "0x09f62a6777032329c0d49f1fd4fbe9b3468cda56",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "17061212352360243327020"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "9259806905596890",
+        "gauge_future_relative_weight": "9261518255675343",
+        "get_gauge_weight": "7228340300980563328569600",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 66.24654323375051,
+      "gaugeCrvApy": [
+        15.352437231013822,
+        38.38109307753455
+      ],
+      "gaugeFutureCrvApy": [
+        15.355274589819205,
+        38.388186474548014
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-119/swap",
+          "https://classic.curve.finance/factory-twocrypto-119"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-119/deposit",
+          "https://classic.curve.finance/factory-twocrypto-119/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-twocrypto-119/withdraw",
+          "https://classic.curve.finance/factory-twocrypto-119/withdraw"
+        ]
+      },
+      "swap": "0xee351f12eae8c2b8b9d1b9bfd3c5dd565234578d",
+      "swap_token": "0xee351f12eae8c2b8b9d1b9bfd3c5dd565234578d",
+      "swap_data": {
+        "virtual_price": "1013607767420802068"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      15.352437231013822,
+      38.38109307753455
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      15.352437231013822,
+      38.38109307753455
+    ],
+    "max_apy": 38.38109307753455,
+    "usd_total": 1512653.2649549553
+  },
+  {
+    "name": "CRV+yCRV (0x99f5\u2026e1E5)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "CRV+yCRV (0x99f5\u2026e1E5)",
+      "shortName": "CRV+yCRV (0x99f5\u2026)",
+      "gauge": "0xeebc06d495c96e57542a6d829184a907a02ef602",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "6307472445844963952577066"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "7891343959133385",
+        "gauge_future_relative_weight": "7893897096963499",
+        "get_gauge_weight": "6160952550388724317958400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.2727230481304521,
+      "gaugeCrvApy": [
+        8.596512106967003,
+        21.49128026741751
+      ],
+      "gaugeFutureCrvApy": [
+        8.599293392433836,
+        21.49823348108459
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-280/swap",
+          "https://classic.curve.finance/factory/280"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-280/deposit",
+          "https://classic.curve.finance/factory/280/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-280/withdraw",
+          "https://classic.curve.finance/factory/280/withdraw"
+        ]
+      },
+      "swap": "0x99f5acc8ec2da2bc0771c32814eff52b712de1e5",
+      "swap_token": "0x99f5acc8ec2da2bc0771c32814eff52b712de1e5",
+      "swap_data": {
+        "virtual_price": "1040945086752717083"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      8.596512106967003,
+      21.49128026741751
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      8.596512106967003,
+      21.49128026741751
+    ],
+    "max_apy": 21.49128026741751,
+    "usd_total": 2169913.5665237387
+  },
+  {
+    "name": "CRV+cvxCRV (0x971a\u20268623)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "CRV+cvxCRV (0x971a\u20268623)",
+      "shortName": "CRV+cvxCRV (0x971a\u2026)",
+      "gauge": "0xfb18127c1471131468a1aad4785c19678e521d86",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "39964794387064499859300349"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "35057515899699481",
+        "gauge_future_relative_weight": "35067043177941630",
+        "get_gauge_weight": "27368787108313882841702400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.19723507319155217,
+      "gaugeCrvApy": [
+        8.334276817298218,
+        20.835692043245544
+      ],
+      "gaugeFutureCrvApy": [
+        8.33654175171093,
+        20.841354379277327
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-283/swap",
+          "https://classic.curve.finance/factory/283"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-283/deposit",
+          "https://classic.curve.finance/factory/283/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-283/withdraw",
+          "https://classic.curve.finance/factory/283/withdraw"
+        ]
+      },
+      "swap": "0x971add32ea87f10bd192671630be3be8a11b8623",
+      "swap_token": "0x971add32ea87f10bd192671630be3be8a11b8623",
+      "swap_data": {
+        "virtual_price": "1017527439305696692"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      8.334276817298218,
+      20.835692043245544
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      8.334276817298218,
+      20.835692043245544
+    ],
+    "max_apy": 20.835692043245544,
+    "usd_total": 11092816.390193162
+  },
+  {
+    "name": "CRV+sdCRV (0xCA02\u202672D0)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "CRV+sdCRV (0xCA02\u202672D0)",
+      "shortName": "CRV+sdCRV (0xCA02\u2026)",
+      "gauge": "0x26f7786de3e6d9bd37fcf47be6f2bc455a21b74a",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "6412184850702166982747475"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "7920691922436544",
+        "gauge_future_relative_weight": "7915789170985050",
+        "get_gauge_weight": "6178038664841401171363200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.2824131055231671,
+      "gaugeCrvApy": [
+        8.196354832410874,
+        20.490887081027186
+      ],
+      "gaugeFutureCrvApy": [
+        8.191281451076886,
+        20.478203627692217
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-300/swap",
+          "https://classic.curve.finance/factory/300"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-300/deposit",
+          "https://classic.curve.finance/factory/300/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-300/withdraw",
+          "https://classic.curve.finance/factory/300/withdraw"
+        ]
+      },
+      "swap": "0xca0253a98d16e9c1e3614cafda19318ee69772d0",
+      "swap_token": "0xca0253a98d16e9c1e3614cafda19318ee69772d0",
+      "swap_data": {
+        "virtual_price": "1023958893637618381"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      8.196354832410874,
+      20.490887081027186
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      8.196354832410874,
+      20.490887081027186
+    ],
+    "max_apy": 20.490887081027186,
+    "usd_total": 2408239.2718733354
+  },
+  {
+    "name": "reUSD+sfrxUSD (0xed78\u2026A441)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "reUSD+sfrxUSD (0xed78\u2026A441)",
+      "shortName": "reUSD+sfrxUSD (0xed78\u2026)",
+      "gauge": "0x5c0b03914f68f2717d779a0211fd98c2cc45a4dd",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "3020600051149151740598982"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "11150732065440267",
+        "gauge_future_relative_weight": "11152915178389109",
+        "get_gauge_weight": "8704519500133435590864000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.005286161318018,
+      "gaugeCrvApy": [
+        6.8812757423226065,
+        17.203189355806515
+      ],
+      "gaugeFutureCrvApy": [
+        6.882622972449691,
+        17.206557431124228
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-393/swap",
+          "https://classic.curve.finance/factory-stable-ng-393"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-393/deposit",
+          "https://classic.curve.finance/factory-stable-ng-393/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-393/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-393/withdraw"
+        ]
+      },
+      "swap": "0xed785af60bed688baa8990cd5c4166221599a441",
+      "swap_token": "0xed785af60bed688baa8990cd5c4166221599a441",
+      "swap_data": {
+        "virtual_price": "1011947179204278584"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      6.8812757423226065,
+      17.203189355806515
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      6.8812757423226065,
+      17.203189355806515
+    ],
+    "max_apy": 17.203189355806515,
+    "usd_total": 3280914.8873788826
+  },
+  {
+    "name": "msUSD+FRAXBP (0xc3b1\u202651dD)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "msUSD+FRAXBP (0xc3b1\u202651dD)",
+      "shortName": "msUSD+FRAXBP (0xc3b1\u2026)",
+      "gauge": "0xd5f2e6612e41be48461fdba20061e3c778fe6ec4",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "8937571805676528835883781"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "33457172601846280",
+        "gauge_future_relative_weight": "33464856620790467",
+        "get_gauge_weight": "26118328021473745924070400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0819388112938857,
+      "gaugeCrvApy": [
+        6.483589387845595,
+        16.208973469613987
+      ],
+      "gaugeFutureCrvApy": [
+        6.485078456401252,
+        16.21269614100313
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-251/swap",
+          "https://classic.curve.finance/factory/251"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-251/deposit",
+          "https://classic.curve.finance/factory/251/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-251/withdraw",
+          "https://classic.curve.finance/factory/251/withdraw"
+        ]
+      },
+      "swap": "0xc3b19502f8c02be75f3f77fd673503520deb51dd",
+      "swap_token": "0xc3b19502f8c02be75f3f77fd673503520deb51dd",
+      "swap_data": {
+        "virtual_price": "1088401942783414005"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      6.483589387845595,
+      16.208973469613987
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      6.483589387845595,
+      16.208973469613987
+    ],
+    "max_apy": 16.208973469613987,
+    "usd_total": 11109651.808664752
+  },
+  {
+    "name": "frxUSD+USDf (0x98E9\u2026B5e6)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "frxUSD+USDf (0x98E9\u2026B5e6)",
+      "shortName": "frxUSD+USDf (0x98E9\u2026)",
+      "gauge": "0xbb6c782738bc37484d0773f3d6bece4ddc20cbdf",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "2483959743788955165301817"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "8173874691422218",
+        "gauge_future_relative_weight": "8176122219764525",
+        "get_gauge_weight": "6381220887909059868547200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0010375514128125,
+      "gaugeCrvApy": [
+        6.1600120695611285,
+        15.40003017390282
+      ],
+      "gaugeFutureCrvApy": [
+        6.161705856441642,
+        15.404264641104104
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-485/swap",
+          "https://classic.curve.finance/factory-stable-ng-485"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-485/deposit",
+          "https://classic.curve.finance/factory-stable-ng-485/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-485/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-485/withdraw"
+        ]
+      },
+      "swap": "0x98e9599dab3a936c35de48e13e026ef4ea20b5e6",
+      "swap_token": "0x98e9599dab3a936c35de48e13e026ef4ea20b5e6",
+      "swap_data": {
+        "virtual_price": "1001794914947500533"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      6.1600120695611285,
+      15.40003017390282
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      6.1600120695611285,
+      15.40003017390282
+    ],
+    "max_apy": 15.40003017390282,
+    "usd_total": 2918970.082087964
+  },
+  {
+    "name": "reUSD+scrvUSD (0xc522\u20264F50)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "reUSD+scrvUSD (0xc522\u20264F50)",
+      "shortName": "reUSD+scrvUSD (0xc522\u2026)",
+      "gauge": "0xaf01d68714e7ea67f43f08b5947e367126b889b1",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "21177273985277908882805259"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "63197416521052321",
+        "gauge_future_relative_weight": "63156751155991669",
+        "get_gauge_weight": "49291971041584516838544000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0058142989209111,
+      "gaugeCrvApy": [
+        5.559810304400246,
+        13.899525761000614
+      ],
+      "gaugeFutureCrvApy": [
+        5.556232757593073,
+        13.890581893982683
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-392/swap",
+          "https://classic.curve.finance/factory-stable-ng-392"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-392/deposit",
+          "https://classic.curve.finance/factory-stable-ng-392/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-392/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-392/withdraw"
+        ]
+      },
+      "swap": "0xc522a6606bba746d7960404f22a3db936b6f4f50",
+      "swap_token": "0xc522a6606bba746d7960404f22a3db936b6f4f50",
+      "swap_data": {
+        "virtual_price": "1012495770097078970"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      5.559810304400246,
+      13.899525761000614
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.559810304400246,
+      13.899525761000614
+    ],
+    "max_apy": 13.899525761000614,
+    "usd_total": 22925984.706143446
+  },
+  {
+    "name": "msETH+WETH (0xa4c5\u202608e4)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "msETH+WETH (0xa4c5\u202608e4)",
+      "shortName": "msETH+WETH (0xa4c5\u2026)",
+      "gauge": "0x4e227d29b33b77113f84bcc189a6f886755a1f24",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "3599513954646214477062"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "33471528134592092",
+        "gauge_future_relative_weight": "33536032441146614",
+        "get_gauge_weight": "26173878638179642793337600",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 3215.994745910135,
+      "gaugeCrvApy": [
+        5.4183225935422445,
+        13.54580648385561
+      ],
+      "gaugeFutureCrvApy": [
+        5.428764457450573,
+        13.571911143626432
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-331/swap",
+          "https://classic.curve.finance/factory/331"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-331/deposit",
+          "https://classic.curve.finance/factory/331/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-331/withdraw",
+          "https://classic.curve.finance/factory/331/withdraw"
+        ]
+      },
+      "swap": "0xa4c567c662349bec3d0fb94c4e7f85ba95e208e4",
+      "swap_token": "0xa4c567c662349bec3d0fb94c4e7f85ba95e208e4",
+      "swap_data": {
+        "virtual_price": "1065953740259613264"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      5.4183225935422445,
+      13.54580648385561
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.4183225935422445,
+      13.54580648385561
+    ],
+    "max_apy": 13.54580648385561,
+    "usd_total": 14110013.440028358
+  },
+  {
+    "name": "sDOLA+alUSD (0x4606\u2026D87f)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "sDOLA+alUSD (0x4606\u2026D87f)",
+      "shortName": "sDOLA+alUSD (0x4606\u2026)",
+      "gauge": "0x19f9266f349158b54a6d95dce79297df670f7f14",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "2333978261215451505659152"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "6790009124206631",
+        "gauge_future_relative_weight": "6791887351571593",
+        "get_gauge_weight": "5300866629831545807126400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.020964363451647,
+      "gaugeCrvApy": [
+        5.339633852906002,
+        13.349084632265004
+      ],
+      "gaugeFutureCrvApy": [
+        5.341110882794761,
+        13.352777206986904
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-320/swap",
+          "https://classic.curve.finance/factory-stable-ng-320"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-320/deposit",
+          "https://classic.curve.finance/factory-stable-ng-320/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-320/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-320/withdraw"
+        ]
+      },
+      "swap": "0x460638e6f7605b866736e38045c0de8294d7d87f",
+      "swap_token": "0x460638e6f7605b866736e38045c0de8294d7d87f",
+      "swap_data": {
+        "virtual_price": "1030112660778338920"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      5.339633852906002,
+      13.349084632265004
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.339633852906002,
+      13.349084632265004
+    ],
+    "max_apy": 13.349084632265004,
+    "usd_total": 2642497.3658884624
+  },
+  {
+    "name": "MIM+3Crv (0x5a6A\u2026F41B)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "MIM+3Crv (0x5a6A\u2026F41B)",
+      "shortName": "MIM+3Crv (0x5a6A\u2026)",
+      "gauge": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "16185198457039721333357317"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "46697233938974957",
+        "gauge_future_relative_weight": "46655675876734940",
+        "get_gauge_weight": "36413371209696797225347200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.017004745578814,
+      "gaugeCrvApy": [
+        5.316167523146823,
+        13.290418807867058
+      ],
+      "gaugeFutureCrvApy": [
+        5.3114364159233425,
+        13.278591039808356
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/mim/swap",
+          "https://classic.curve.finance/mim"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/mim/deposit",
+          "https://classic.curve.finance/mim/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/mim/withdraw",
+          "https://classic.curve.finance/mim/withdraw"
+        ]
+      },
+      "swap": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+      "swap_token": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+      "swap_data": {
+        "virtual_price": "1017588354791696968"
+      },
+      "type": "stable",
+      "factory": false
+    },
+    "gaugeCrvApy": [
+      5.316167523146823,
+      13.290418807867058
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.316167523146823,
+      13.290418807867058
+    ],
+    "max_apy": 13.290418807867058,
+    "usd_total": 20771514.227062598
+  },
+  {
+    "name": "frxUSD+crvUSD (0x13e1\u202643e1)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "frxUSD+crvUSD (0x13e1\u202643e1)",
+      "shortName": "frxUSD+crvUSD (0x13e1\u2026)",
+      "gauge": "0x22804b0f6be741a9fa1bbaecdd6c8d4116e96944",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "21614995885405431038348276"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "59404698275263970",
+        "gauge_future_relative_weight": "59512401349203840",
+        "get_gauge_weight": "46447664109172784034595200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.002901668221118,
+      "gaugeCrvApy": [
+        5.135181445366211,
+        12.837953613415527
+      ],
+      "gaugeFutureCrvApy": [
+        5.144491732985924,
+        12.86122933246481
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-510/swap",
+          "https://classic.curve.finance/factory-stable-ng-510"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-510/deposit",
+          "https://classic.curve.finance/factory-stable-ng-510/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-510/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-510/withdraw"
+        ]
+      },
+      "swap": "0x13e12bb0e6a2f1a3d6901a59a9d585e89a6243e1",
+      "swap_token": "0x13e12bb0e6a2f1a3d6901a59a9d585e89a6243e1",
+      "swap_data": {
+        "virtual_price": "1003096368534146197"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      5.135181445366211,
+      12.837953613415527
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.135181445366211,
+      12.837953613415527
+    ],
+    "max_apy": 12.837953613415527,
+    "usd_total": 23642725.854729757
+  },
+  {
+    "name": "sUSD+sUSDe (0x4b5E\u2026ebae)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "sUSD+sUSDe (0x4b5E\u2026ebae)",
+      "shortName": "sUSD+sUSDe (0x4b5E\u2026)",
+      "gauge": "0x411387be45f5c001159f3d76e26fe7d200e5dc71",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "7676745888117570308592280"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "20090522602234411",
+        "gauge_future_relative_weight": "20094319371839043",
+        "get_gauge_weight": "15683020270162732044633600",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.9697187979864208,
+      "gaugeCrvApy": [
+        5.057277264330877,
+        12.643193160827193
+      ],
+      "gaugeFutureCrvApy": [
+        5.058233004357136,
+        12.64558251089284
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-371/swap",
+          "https://classic.curve.finance/factory-stable-ng-371"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-371/deposit",
+          "https://classic.curve.finance/factory-stable-ng-371/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-371/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-371/withdraw"
+        ]
+      },
+      "swap": "0x4b5e827f4c0a1042272a11857a355da1f4ceebae",
+      "swap_token": "0x4b5e827f4c0a1042272a11857a355da1f4ceebae",
+      "swap_data": {
+        "virtual_price": "1006281356564453834"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      5.057277264330877,
+      12.643193160827193
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      5.057277264330877,
+      12.643193160827193
+    ],
+    "max_apy": 12.643193160827193,
+    "usd_total": 8940758.804656172
+  },
+  {
+    "name": "alUSD+FRAXBP (0xB30d\u202630A5)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "alUSD+FRAXBP (0xB30d\u202630A5)",
+      "shortName": "alUSD+FRAXBP (0xB30d\u2026)",
+      "gauge": "0x740ba8aa0052e07b925908b380248cb03f3de5cb",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "6238213774188818625327292"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "16231549107574104",
+        "gauge_future_relative_weight": "16235499841850618",
+        "get_gauge_weight": "12671326079986752221500800",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.9975396090656108,
+      "gaugeCrvApy": [
+        4.887852340371542,
+        12.219630850928855
+      ],
+      "gaugeFutureCrvApy": [
+        4.889042036170241,
+        12.222605090425603
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-147/swap",
+          "https://classic.curve.finance/factory/147"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-147/deposit",
+          "https://classic.curve.finance/factory/147/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-147/withdraw",
+          "https://classic.curve.finance/factory/147/withdraw"
+        ]
+      },
+      "swap": "0xb30da2376f63de30b42dc055c93fa474f31330a5",
+      "swap_token": "0xb30da2376f63de30b42dc055c93fa474f31330a5",
+      "swap_data": {
+        "virtual_price": "1006528385480647780"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      4.887852340371542,
+      12.219630850928855
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      4.887852340371542,
+      12.219630850928855
+    ],
+    "max_apy": 12.219630850928855,
+    "usd_total": 8591844.84475363
+  },
+  {
+    "name": "GHO+cbBTC+WETH (0x8a4f\u2026d77f)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "GHO+cbBTC+WETH (0x8a4f\u2026d77f)",
+      "shortName": "GHO+cbBTC+WETH (0x8a4f\u2026)",
+      "gauge": "0x1e4b83f6bfe9dbeb6d5b92a5237e5c18a44176f4",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "924404461552660230618"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "4730267320747861",
+        "gauge_future_relative_weight": "4731234707155750",
+        "get_gauge_weight": "3692588360032133555212800",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1982.5433301781306,
+      "gaugeCrvApy": [
+        4.8367035972003505,
+        12.091758993000877
+      ],
+      "gaugeFutureCrvApy": [
+        4.837692750878492,
+        12.094231877196231
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-tricrypto-47/swap",
+          "https://classic.curve.finance/factory-tricrypto-47"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-tricrypto-47/deposit",
+          "https://classic.curve.finance/factory-tricrypto-47/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-tricrypto-47/withdraw",
+          "https://classic.curve.finance/factory-tricrypto-47/withdraw"
+        ]
+      },
+      "swap": "0x8a4f252812dff2a8636e4f7eb249d8fc2e3bd77f",
+      "swap_token": "0x8a4f252812dff2a8636e4f7eb249d8fc2e3bd77f",
+      "swap_data": {
+        "virtual_price": "1014873259308050954"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      4.8367035972003505,
+      12.091758993000877
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      4.8367035972003505,
+      12.091758993000877
+    ],
+    "max_apy": 12.091758993000877,
+    "usd_total": 2657705.653279814
+  },
+  {
+    "name": "msETH+OETH (0xB5b9\u20262ee0)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "msETH+OETH (0xB5b9\u20262ee0)",
+      "shortName": "msETH+OETH (0xB5b9\u2026)",
+      "gauge": "0x8c84b88562ced07f84af488cc45d434186d07b6e",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "362352937504015240437"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "2811487590868294",
+        "gauge_future_relative_weight": "2812265302354084",
+        "get_gauge_weight": "2194889656412280793392000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 3025.3271789710966,
+      "gaugeCrvApy": [
+        4.805964357222689,
+        12.014910893056722
+      ],
+      "gaugeFutureCrvApy": [
+        4.807293779302676,
+        12.01823444825669
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-374/swap",
+          "https://classic.curve.finance/factory-stable-ng-374"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-374/deposit",
+          "https://classic.curve.finance/factory-stable-ng-374/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-374/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-374/withdraw"
+        ]
+      },
+      "swap": "0xb5b93dde9d87563184d31f3b7f85dd58404e2ee0",
+      "swap_token": "0xb5b93dde9d87563184d31f3b7f85dd58404e2ee0",
+      "swap_data": {
+        "virtual_price": "1003102443942154034"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      4.805964357222689,
+      12.014910893056722
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      4.805964357222689,
+      12.014910893056722
+    ],
+    "max_apy": 12.014910893056722,
+    "usd_total": 1302787.3760443614
+  },
+  {
+    "name": "dgnETH+ETH+ (0x5bA5\u20263B4F)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "dgnETH+ETH+ (0x5bA5\u20263B4F)",
+      "shortName": "dgnETH+ETH+ (0x5bA5\u2026)",
+      "gauge": "0x856dbb19e0ce8368ab242f96fd424ce63060cab0",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "483096682215551646429"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "3710303429711603",
+        "gauge_future_relative_weight": "3711062223425291",
+        "get_gauge_weight": "2896373994900204712320000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 3095.5533614819783,
+      "gaugeCrvApy": [
+        4.649278779734006,
+        11.623196949335014
+      ],
+      "gaugeFutureCrvApy": [
+        4.650229603184992,
+        11.62557400796248
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-224/swap",
+          "https://classic.curve.finance/factory-stable-ng-224"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-224/deposit",
+          "https://classic.curve.finance/factory-stable-ng-224/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-224/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-224/withdraw"
+        ]
+      },
+      "swap": "0x5ba541585d6297b756f08b7c61a7e37752123b4f",
+      "swap_token": "0x5ba541585d6297b756f08b7c61a7e37752123b4f",
+      "swap_data": {
+        "virtual_price": "1022478305509504698"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      4.649278779734006,
+      11.623196949335014
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      4.649278779734006,
+      11.623196949335014
+    ],
+    "max_apy": 11.623196949335014,
+    "usd_total": 1691828.223491376
+  },
+  {
+    "name": "USDC+USDf (0x7231\u2026a976)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "USDC+USDf (0x7231\u2026a976)",
+      "shortName": "USDC+USDf (0x7231\u2026)",
+      "gauge": "0x156527def9a2ab4f54c849575f23dc4bb439d9d9",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "16478843866317869970356694"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "35987091240085792",
+        "gauge_future_relative_weight": "35986609745389154",
+        "get_gauge_weight": "28086481539768697098883200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0052573477710005,
+      "gaugeCrvApy": [
+        4.070907739130898,
+        10.177269347827245
+      ],
+      "gaugeFutureCrvApy": [
+        4.070853271808885,
+        10.177133179522214
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-391/swap",
+          "https://classic.curve.finance/factory-stable-ng-391"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-391/deposit",
+          "https://classic.curve.finance/factory-stable-ng-391/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-391/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-391/withdraw"
+        ]
+      },
+      "swap": "0x72310daaed61321b02b08a547150c07522c6a976",
+      "swap_token": "0x72310daaed61321b02b08a547150c07522c6a976",
+      "swap_data": {
+        "virtual_price": "1006025769516571225"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      4.070907739130898,
+      10.177269347827245
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      4.070907739130898,
+      10.177269347827245
+    ],
+    "max_apy": 10.177269347827245,
+    "usd_total": 29167117.06001284
+  },
+  {
+    "name": "USDT+crvUSD (0x390f\u20267BF4)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "USDT+crvUSD (0x390f\u20267BF4)",
+      "shortName": "USDT+crvUSD (0x390f\u2026)",
+      "gauge": "0x4e6bb6b7447b7b2aa268c16ab87f4bb48bf57939",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "22756818269738240564954972"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "49088118565030489",
+        "gauge_future_relative_weight": "49003982653830892",
+        "get_gauge_weight": "38246154998202183564806400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0217410590267362,
+      "gaugeCrvApy": [
+        3.956147811465696,
+        9.890369528664241
+      ],
+      "gaugeFutureCrvApy": [
+        3.949367064704808,
+        9.87341766176202
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-1/swap",
+          "https://classic.curve.finance/factory-crvusd-1"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-1/deposit",
+          "https://classic.curve.finance/factory-crvusd-1/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-1/withdraw",
+          "https://classic.curve.finance/factory-crvusd-1/withdraw"
+        ]
+      },
+      "swap": "0x390f3595bca2df7d23783dfd126427cceb997bf4",
+      "swap_token": "0x390f3595bca2df7d23783dfd126427cceb997bf4",
+      "swap_data": {
+        "virtual_price": "1022194743363632408"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      3.956147811465696,
+      9.890369528664241
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      3.956147811465696,
+      9.890369528664241
+    ],
+    "max_apy": 9.890369528664241,
+    "usd_total": 27276043.530785523
+  },
+  {
+    "name": "USDC+crvUSD (0x4DEc\u2026D69E)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "USDC+crvUSD (0x4DEc\u2026D69E)",
+      "shortName": "USDC+crvUSD (0x4DEc\u2026)",
+      "gauge": "0x95f00391cb5eebcd190eb58728b4ce23dbfa6ac1",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "23867546167337023861564988"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "50780931432640401",
+        "gauge_future_relative_weight": "50790809012940132",
+        "get_gauge_weight": "39640719974035282443734400",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.021854234195787,
+      "gaugeCrvApy": [
+        3.9016872315681446,
+        9.754218078920362
+      ],
+      "gaugeFutureCrvApy": [
+        3.9024461626835643,
+        9.756115406708911
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-0/swap",
+          "https://classic.curve.finance/factory-crvusd-0"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-0/deposit",
+          "https://classic.curve.finance/factory-crvusd-0/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-crvusd-0/withdraw",
+          "https://classic.curve.finance/factory-crvusd-0/withdraw"
+        ]
+      },
+      "swap": "0x4dece678ceceb27446b35c672dc7d61f30bad69e",
+      "swap_token": "0x4dece678ceceb27446b35c672dc7d61f30bad69e",
+      "swap_data": {
+        "virtual_price": "1022041157838739681"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      3.9016872315681446,
+      9.754218078920362
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      3.9016872315681446,
+      9.754218078920362
+    ],
+    "max_apy": 9.754218078920362,
+    "usd_total": 28154604.71727778
+  },
+  {
+    "name": "reUSD+fxUSD (0xb0ef\u2026A8Dc)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "reUSD+fxUSD (0xb0ef\u2026A8Dc)",
+      "shortName": "reUSD+fxUSD (0xb0ef\u2026)",
+      "gauge": "0xf84657ca6db485ea38c63ca96dc396c2b3c6fdcc",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "1807760772745622022017840"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "3354995482827766",
+        "gauge_future_relative_weight": "3355942125910837",
+        "get_gauge_weight": "2619213291688407893337600",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 0.9955431662927814,
+      "gaugeCrvApy": [
+        3.493328249871798,
+        8.733320624679495
+      ],
+      "gaugeFutureCrvApy": [
+        3.494313924827716,
+        8.73578481206929
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-414/swap",
+          "https://classic.curve.finance/factory-stable-ng-414"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-414/deposit",
+          "https://classic.curve.finance/factory-stable-ng-414/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-414/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-414/withdraw"
+        ]
+      },
+      "swap": "0xb0ef04ace97d350e24efa5139d2590d26a61a8dc",
+      "swap_token": "0xb0ef04ace97d350e24efa5139d2590d26a61a8dc",
+      "swap_data": {
+        "virtual_price": "1001765942762805323"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      3.493328249871798,
+      8.733320624679495
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      3.493328249871798,
+      8.733320624679495
+    ],
+    "max_apy": 8.733320624679495,
+    "usd_total": 2515499.08969142
+  },
+  {
+    "name": "FXN+cvxFXN (0x1062\u2026B5e5)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "FXN+cvxFXN (0x1062\u2026B5e5)",
+      "shortName": "FXN+cvxFXN (0x1062\u2026)",
+      "gauge": "0x724476f141ed2de4da22ebdf435905def1118317",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "28428249800952226042440"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "1803611720691822",
+        "gauge_future_relative_weight": "1804110548806915",
+        "get_gauge_weight": "1408054773241308873744000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 34.15241110323762,
+      "gaugeCrvApy": [
+        3.4811285924394553,
+        8.702821481098638
+      ],
+      "gaugeFutureCrvApy": [
+        3.4820913743920454,
+        8.705228435980114
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-358/swap",
+          "https://classic.curve.finance/factory/358"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-358/deposit",
+          "https://classic.curve.finance/factory/358/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-v2-358/withdraw",
+          "https://classic.curve.finance/factory/358/withdraw"
+        ]
+      },
+      "swap": "0x1062fd8ed633c1f080754c19317cb3912810b5e5",
+      "swap_token": "0x1062fd8ed633c1f080754c19317cb3912810b5e5",
+      "swap_data": {
+        "virtual_price": "1022680497809006825"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      3.4811285924394553,
+      8.702821481098638
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      3.4811285924394553,
+      8.702821481098638
+    ],
+    "max_apy": 8.702821481098638,
+    "usd_total": 1460257.1718991562
+  },
+  {
+    "name": "FRAX+USDC (0xDcEF\u202641A2)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "FRAX+USDC (0xDcEF\u202641A2)",
+      "shortName": "FRAX+USDC (0xDcEF\u2026)",
+      "gauge": "0xcfc25170633581bf896cb6cdee170e3e3aa59503",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "142216005468439022629441"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "253115259359365",
+        "gauge_future_relative_weight": "253025802032294",
+        "get_gauge_weight": "197479133715165885676800",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0096371014178982,
+      "gaugeCrvApy": [
+        3.3033383588294147,
+        8.258345897073538
+      ],
+      "gaugeFutureCrvApy": [
+        3.302170875601655,
+        8.255427189004138
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/fraxusdc/swap",
+          "https://classic.curve.finance/fraxusdc"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/fraxusdc/deposit",
+          "https://classic.curve.finance/fraxusdc/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/fraxusdc/withdraw",
+          "https://classic.curve.finance/fraxusdc/withdraw"
+        ]
+      },
+      "swap": "0xdcef968d416a41cdac0ed8702fac8128a64241a2",
+      "swap_token": "0x3175df0976dfa876431c2e9ee6bc45b65d3473cc",
+      "swap_data": {
+        "virtual_price": "1014939549035016778"
+      },
+      "type": "stable",
+      "factory": false
+    },
+    "gaugeCrvApy": [
+      3.3033383588294147,
+      8.258345897073538
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      3.3033383588294147,
+      8.258345897073538
+    ],
+    "max_apy": 8.258345897073538,
+    "usd_total": 9519700.369365174
+  },
+  {
+    "name": "USDC+RLUSD (0xD001\u2026a186)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "USDC+RLUSD (0xD001\u2026a186)",
+      "shortName": "USDC+RLUSD (0xD001\u2026)",
+      "gauge": "0xfc3212bd9ad9a28da6b2bd50a2918969c126894f",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "36975578805718009883309205"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "520092738",
+        "gauge_future_relative_weight": "519752528",
+        "get_gauge_weight": "405651432415219200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0052998318620157,
+      "gaugeCrvApy": [
+        2.6219156078013205e-08,
+        6.554789019503301e-08
+      ],
+      "gaugeFutureCrvApy": [
+        2.620200525386672e-08,
+        6.55050131346668e-08
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-327/swap",
+          "https://classic.curve.finance/factory-stable-ng-327"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-327/deposit",
+          "https://classic.curve.finance/factory-stable-ng-327/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-327/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-327/withdraw"
+        ]
+      },
+      "swap": "0xd001ae433f254283fece51d4acce8c53263aa186",
+      "swap_token": "0xd001ae433f254283fece51d4acce8c53263aa186",
+      "swap_data": {
+        "virtual_price": "1005939503769207181"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      2.6219156078013205e-08,
+      6.554789019503301e-08
+    ],
+    "extra_rewards_apy": 8.247342630612692,
+    "total_apy_range": [
+      8.247342656831849,
+      8.247342696160583
+    ],
+    "max_apy": 8.247342696160583,
+    "usd_total": 65059317.61055966
+  },
+  {
+    "name": "PYUSD+USDC (0x383E\u20268559)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "PYUSD+USDC (0x383E\u20268559)",
+      "shortName": "PYUSD+USDC (0x383E\u2026)",
+      "gauge": "0x9da75997624c697444958aded6790bfca96af19a",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "9374132260760704035372022"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "2052173728086",
+        "gauge_future_relative_weight": "2043300036625",
+        "get_gauge_weight": "1594735074099388771200",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0078194125768527,
+      "gaugeCrvApy": [
+        0.0004070510105582473,
+        0.0010176275263956184
+      ],
+      "gaugeFutureCrvApy": [
+        0.0004052909036885668,
+        0.001013227259221417
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-43/swap",
+          "https://classic.curve.finance/factory-stable-ng-43"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-43/deposit",
+          "https://classic.curve.finance/factory-stable-ng-43/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-43/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-43/withdraw"
+        ]
+      },
+      "swap": "0x383e6b4437b59fff47b619cba855ca29342a8559",
+      "swap_token": "0x383e6b4437b59fff47b619cba855ca29342a8559",
+      "swap_data": {
+        "virtual_price": "1007889892362562820"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      0.0004070510105582473,
+      0.0010176275263956184
+    ],
+    "extra_rewards_apy": 7.407245966499214,
+    "total_apy_range": [
+      7.407653017509772,
+      7.408263594025609
+    ],
+    "max_apy": 7.408263594025609,
+    "usd_total": 24466347.42279599
+  },
+  {
+    "name": "reUSD+sDOLA (0x48d6\u20269040)",
+    "pool_info": {
+      "blockchainId": "ethereum",
+      "isPool": true,
+      "name": "reUSD+sDOLA (0x48d6\u20269040)",
+      "shortName": "reUSD+sDOLA (0x48d6\u2026)",
+      "gauge": "0xcb25249bfa8cdb6012a75070e5c2885151368bef",
+      "gauge_data": {
+        "inflation_rate": "3663926723928765860",
+        "working_supply": "1293480443800751409568224"
+      },
+      "gauge_controller": {
+        "gauge_relative_weight": "1957568322351714",
+        "gauge_future_relative_weight": "1958067198894943",
+        "get_gauge_weight": "1528213372265104482384000",
+        "inflation_rate": "3663926723928765860"
+      },
+      "side_chain": false,
+      "is_killed": false,
+      "hasNoCrv": false,
+      "lpTokenPrice": 1.0062736202108542,
+      "gaugeCrvApy": [
+        2.818314687414638,
+        7.045786718536595
+      ],
+      "gaugeFutureCrvApy": [
+        2.8190329208846703,
+        7.0475823022116755
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-413/swap",
+          "https://classic.curve.finance/factory-stable-ng-413"
+        ],
+        "deposit": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-413/deposit",
+          "https://classic.curve.finance/factory-stable-ng-413/deposit"
+        ],
+        "withdraw": [
+          "https://curve.finance/dex/#/ethereum/pools/factory-stable-ng-413/withdraw",
+          "https://classic.curve.finance/factory-stable-ng-413/withdraw"
+        ]
+      },
+      "swap": "0x48d670d189b4b48757992d36897bca6e3f889040",
+      "swap_token": "0x48d670d189b4b48757992d36897bca6e3f889040",
+      "swap_data": {
+        "virtual_price": "1014053955867223407"
+      },
+      "type": "stable",
+      "factory": true
+    },
+    "gaugeCrvApy": [
+      2.818314687414638,
+      7.045786718536595
+    ],
+    "extra_rewards_apy": 0.0,
+    "total_apy_range": [
+      2.818314687414638,
+      7.045786718536595
+    ],
+    "max_apy": 7.045786718536595,
+    "usd_total": 1482392.1015781024
+  }
+]
