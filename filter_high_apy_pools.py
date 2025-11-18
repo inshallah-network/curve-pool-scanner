@@ -4,6 +4,7 @@ Script to filter Curve pools with gaugeCrvApy values higher than 10.
 """
 
 import json
+import os
 from typing import Dict, Any, List
 
 def filter_high_apy_pools(file_path: str, all_pools_file_path: str, min_apy: float = 10.0, min_usd_total: float = 1000000.0) -> List[Dict[str, Any]]:
@@ -72,6 +73,11 @@ def filter_high_apy_pools(file_path: str, all_pools_file_path: str, min_apy: flo
             
             # Only include stable pools (USD pools)
             if pool_info.get('type') != 'stable':
+                continue
+            
+            # Exclude pools with BTC or ETH in their name
+            pool_name_lower = pool_name.lower()
+            if 'btc' in pool_name_lower or 'eth' in pool_name_lower:
                 continue
             
             # Get pool address for lookups
@@ -176,10 +182,13 @@ def print_results(high_apy_pools: List[Dict[str, Any]], min_apy: float = 10.0):
 
 def main():
     """Main function to run the script."""
-    file_path = "/Users/tariq/Dev/inshallah/stable-tests/curvefi-all-guages.json"
-    all_pools_file_path = "/Users/tariq/Dev/inshallah/stable-tests/all-pools.json"
+    # Get the directory where this script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    file_path = os.path.join(script_dir, "curvefi-all-guages.json")
+    all_pools_file_path = os.path.join(script_dir, "all-pools.json")
     min_apy = 7.0
-    min_usd_total = 1000000.0  # $1M
+    min_usd_total = 5000000.0  # $5M
     
     print(f"Filtering Curve stable pools (USD pools) with Total APY > {min_apy}% and USD total > ${min_usd_total:,.0f}...")
     high_apy_pools = filter_high_apy_pools(file_path, all_pools_file_path, min_apy, min_usd_total)
@@ -187,7 +196,7 @@ def main():
     
     # Optionally save results to a JSON file
     if high_apy_pools:
-        output_file = "/Users/tariq/Dev/inshallah/stable-tests/high_apy_stable_pools_1m_plus.json"
+        output_file = os.path.join(script_dir, "high_apy_stable_pools_1m_plus.json")
         try:
             with open(output_file, 'w') as f:
                 json.dump(high_apy_pools, f, indent=2)
